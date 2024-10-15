@@ -33,6 +33,10 @@ http://www.sis4.com/brmodelo/download.html
 - [Script: Criar Tabelas](AULA03/Script-001-CreateTables.sql)
 - [Script: Inserts e Selects](AULA03/Script-002-InsertsAndSelects.sql)
 
+## AULA 04 - SCHEMAS - GRANT - REVOKE
+- [Script: Criar Banco de Dados](AULA04/script-01-create-database.sql)
+- [Script: Criar Tabelas](AULA04/script-02-create.sql)
+
 ---
 
 Estou aprendendo PostgreSQL, normalização de banco de dados e criação de diagramas conceitual, lógico e físico.
