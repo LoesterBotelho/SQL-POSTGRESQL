@@ -1,0 +1,53 @@
+# Aprendizado de Banco de Dados - PostgreSQL
+
+Este repositório contém materiais e exemplos do meu estudo sobre banco de dados com foco em PostgreSQL, normalização e modelagem de dados.
+
+## Tópicos de Estudo
+
+### 1. Banco de Dados PostgreSQL
+Estou aprendendo a trabalhar com o PostgreSQL, um dos sistemas de gerenciamento de banco de dados relacionais mais poderosos e amplamente utilizados. Aqui estão alguns dos tópicos cobertos até o momento:
+- Criação e manipulação de tabelas
+- Consultas SQL
+- Relacionamentos entre tabelas usando diferentes tipos de JOINs
+
+#### Exemplo de JOIN:
+![Aula00_SQL_JOIN](./Aula00_SQL_JOIN.png)
+
+### 2. Normalização de Banco de Dados
+O processo de normalização é essencial para evitar redundância e garantir a integridade dos dados. Estou estudando as formas normais e como aplicá-las corretamente em um banco de dados.
+
+### 3. Modelagem de Banco de Dados
+
+#### 3.1 Diagrama Conceitual
+O diagrama conceitual serve para representar as entidades e seus relacionamentos sem preocupação com detalhes de implementação. Aqui estão alguns exemplos de diagramas conceituais que desenvolvi:
+
+- **Diagrama Conceitual 1**:
+  ![Aula01_Conceitual_1](./Aula01_Conceitual_1.png)
+
+- **Diagrama Conceitual 2**:
+  ![Aula02_Conceitual_1](./Aula02_Conceitual_1.png)
+
+#### 3.2 Diagrama Lógico
+O diagrama lógico detalha como as entidades serão estruturadas no banco de dados relacional. Abaixo estão exemplos dos diagramas lógicos desenvolvidos durante o estudo:
+
+- **Diagrama Lógico 1**:
+  ![Aula01_Logico_1](./Aula01_Logico_1.png)
+
+- **Diagrama Lógico 2**:
+  ![Aula02_Logico_1](./Aula02_Logico_1.png)
+
+- **Diagrama Lógico 3**:
+  ![Aula03_Logico_1](./Aula03_Logico_1.png)
+
+### 4. Diagrama Físico
+A modelagem física é a etapa final, onde o diagrama lógico é transformado em um banco de dados real com tabelas, colunas, chaves primárias e estrangeiras, e outros detalhes de implementação.
+
+## Próximos Passos
+- Aprofundar meu conhecimento em normalização e formas normais
+- Implementar consultas mais complexas em SQL
+- Modelar bancos de dados mais complexos com base nas necessidades dos projetos
+
+---
+
+Esse repositório será atualizado conforme eu evoluo nos estudos e aplico os conceitos aprendidos.
+"# SQL-POSTGRESQL" 
