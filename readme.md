@@ -2,6 +2,42 @@
 
 Este repositório contém materiais e exemplos do meu estudo sobre banco de dados com foco em PostgreSQL, normalização e modelagem de dados.
 
+# Repositório de Banco de Dados e Scripts SQL
+
+Este repositório contém scripts SQL e diagramas de modelagem para aprendizado de banco de dados, com foco no PostgreSQL, normalização e diagramas conceitual, lógico e físico.
+
+## Estrutura de Pastas e Links
+Para Modelagem foi usado o BRModelo, Todos os diagramas Diagrama Conceitual e Lógico.
+A extenção do arquivo é .brM3.
+```
+http://www.sis4.com/brmodelo/download.html
+```
+
+### AULA 01
+- [Diagrama Conceitual](AULA01/Conceitual_1.brM3)
+- [Diagrama Lógico](AULA01/Lógico_1.brM3)
+- [Script: Criar Banco de Dados](AULA01/Script-001-CreateDatabase.sql)
+- [Script: Criar Tabela `tb_pessoas`](AULA01/Script-001-CreateTable-tb_pessoas.sql)
+- [Script: Criar Tabela `livros`](AULA01/Script-002-CreateTable-livros.sql)
+- [Script: Criar Tabela `Empréstimo de Livros`](AULA01/Script-010-LivroEmprestimo.sql)
+
+### AULA 02
+- [Diagrama Conceitual](AULA02/BRMODELO_Conceitual_LOESTER.brM3)
+- [Diagrama Lógico](AULA02/BRMODELO_Lógico_LOESTER.brM3)
+- [Script: Modelo Físico](AULA02/Scripts-001-Físico_1.sql)
+- [Script: Inserts](AULA02/Scripts-002-Inserts.sql)
+- [Script: Consultas](AULA02/Scripts-003-Consultas.sql)
+
+### AULA 03
+- [Diagrama Lógico](AULA03/Lógico_1.brM3)
+- [Script: Criar Tabelas](AULA03/Script-001-CreateTables.sql)
+- [Script: Inserts e Selects](AULA03/Script-002-InsertsAndSelects.sql)
+
+---
+
+Estou aprendendo PostgreSQL, normalização de banco de dados e criação de diagramas conceitual, lógico e físico.
+
+
 ## Tópicos de Estudo
 
 ### 1. Banco de Dados PostgreSQL
