@@ -55,6 +55,8 @@ Estou aprendendo a trabalhar com o PostgreSQL, um dos sistemas de gerenciamento 
 #### Exemplo de JOIN:
 ![Aula00_SQL_JOIN](./Aula00_SQL_JOIN.png)
 
+![Aula00_SQL_JOIN](./Aula00_SQL_JOIN.gif)
+
 ### 2. Normalização de Banco de Dados
 O processo de normalização é essencial para evitar redundância e garantir a integridade dos dados. Estou estudando as formas normais e como aplicá-las corretamente em um banco de dados.
 
